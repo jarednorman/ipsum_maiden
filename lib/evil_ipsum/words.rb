@@ -45,6 +45,7 @@ EvilIpsum::WORDS = %w(
   doom
   dragon
   dream
+  dreams
   eternal
   eternity
   evil
@@ -58,6 +59,7 @@ EvilIpsum::WORDS = %w(
   fest
   fire
   flame
+  flames
   flesh
   force
   forest
@@ -67,7 +69,9 @@ EvilIpsum::WORDS = %w(
   gate
   goat
   god
+  gods
   gonna
+  goodbye
   gore
   grace
   grim
@@ -102,9 +106,11 @@ EvilIpsum::WORDS = %w(
   nocturnal
   noise
   pain
+  pray
   rage
   rain
   raven
+  reign
   ritual
   rot
   ruin
@@ -127,6 +133,7 @@ EvilIpsum::WORDS = %w(
   storm
   suffer
   sword
+  tear
   terror
   thrash
   throne
