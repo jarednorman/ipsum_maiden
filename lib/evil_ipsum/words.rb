@@ -19,7 +19,6 @@ EvilIpsum::WORDS = %w(
   burning
   cadaver
   chaos
-  child
   christ
   christian
   church
