@@ -10,5 +10,13 @@ module EvilIpsum
     def sentence
       "#{WORDS.sample(rand(3..25)).join(" ")}.".capitalize
     end
+
+    def sentences(count = rand(3..10))
+      count.times.map { sentence }
+    end
+
+    def paragraph
+      sentences.join(" ")
+    end
   end
 end
