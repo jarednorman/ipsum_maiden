@@ -1,8 +1,6 @@
-# EvilIpsum
+# Evil Ipsum
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/evil_ipsum`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Evil Ipsum is a metal-themed (the music genre, not the material) lorem ipsum (placeholder text) generator for Ruby.
 
 ## Installation
 
@@ -22,7 +20,20 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+irb(main):001:0> require 'evil_ipsum'
+=> true
+irb(main):002:0> EvilIpsum.word
+=> "feast"
+irb(main):003:0> EvilIpsum.sentence
+=> "Decapitate tear burn unholy battle shadow forge dreams wind metal eternity lost noise screaming sphere cold gate horror feasting murder vulgar."
+irb(main):004:0> EvilIpsum.sentences
+=> ["Burning unholy christ brain ancient axe face monster cow.", "Excruciating veins hell noise spirit divine cryptic.", "Devil infernal monster ashes wind horror vulgar chaos blood dragon beyond battle.", "Thrash force slaughter beast pray moon flesh brutal vulgar horror brain feasting monster christ rot wind axe.", "Steel fire witch reign.", "Fall nocturnal demonic screaming mass horse serpent."]
+irb(main):005:0> EvilIpsum.sentences(2)
+=> ["Decapitate divine funeral horse human forge nocturnal frost.", "War goat torture gonna."]
+irb(main):006:0> EvilIpsum.paragraph
+=> "Demonic haunted lord vulgar. Demons rain winter ruin eternity satanic doom flames metal grind anger unholy. Burning ashes stone frost torment lost grind dream flesh wind massacre sphere forest fallen beast. Pain circle agony. Shadow spirit satan sick agony iron steel stone cryptic eternity dragon screaming wrath moon demon ruin torture wind scream witch metal rain dark ancient. Cross pain ancient goodbye circle flesh moon head stone divine. Burn ash human flame. Grace slime killing eternity goodbye eternal massacre fire infernal demonic anger terror brain cold sphere fallen satan throne lord brutal massacres. Cold brain metal killing hate head demonic fall. Cross metal god spirit cult chaos blood reign war raven horse satan steel monster storm hand infernal gonna sorrow circle eternity kill cries pray murder."
+```
 
 ## Development
 
