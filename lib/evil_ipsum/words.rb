@@ -70,7 +70,6 @@ EvilIpsum::WORDS = %w(
   goat
   god
   gods
-  gonna
   goodbye
   gore
   grace
