@@ -1,59 +1,145 @@
 EvilIpsum::WORDS = %w(
   acts
+  agony
+  ancient
   anger
   apocalyptic
+  ash
+  ashes
   axe
   battle
+  beast
+  beyond
   black
   blood
+  brain
+  breathe
+  brutal
+  burn
   burning
   cadaver
   chaos
+  child
+  christ
   christian
   church
+  circle
+  cold
   conjuring
+  corpse
   cow
+  cries
+  cross
+  crypt
   cryptic
+  cult
+  dark
+  dead
   death
   decapitate
+  demon
   demonic
   demons
   devil
   divine
+  doom
+  dragon
+  dream
+  eternal
+  eternity
   evil
   excruciating
+  face
+  fall
+  fallen
+  fear
   feast
   feasting
   fest
+  fire
   flame
   flesh
+  force
+  forest
   forge
+  frost
   funeral
+  gate
   goat
+  god
+  gonna
+  gore
+  grace
+  grim
+  grind
+  hand
+  hate
   haunted
+  head
+  heaven
+  hell
   horror
   horse
+  human
+  infernal
+  iron
   kill
   killing
+  light
+  lord
+  lost
   maims
   mass
   massacre
   massacres
   metal
   monster
+  moon
+  morbid
   murder
   necro
+  night
+  nocturnal
+  noise
+  pain
   rage
+  rain
+  raven
+  ritual
+  rot
+  ruin
   satan
   satanic
   scream
   screaming
+  serpent
+  shadow
+  sick
+  skull
+  slaughter
   slime
+  sorrow
+  soul
   sphere
+  spirit
+  steel
+  stone
+  storm
+  suffer
   sword
   terror
+  thrash
+  throne
+  torment
+  torture
   undead
   unholy
+  veins
   vulgar
+  war
+  wind
+  winter
   witch
+  wolf
+  wrath
 )
