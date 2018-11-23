@@ -6,5 +6,9 @@ module EvilIpsum
     def word
       WORDS.sample
     end
+
+    def sentence
+      "#{WORDS.sample(rand(3..25)).join(" ")}.".capitalize
+    end
   end
 end
