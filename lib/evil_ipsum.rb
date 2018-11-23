@@ -18,5 +18,9 @@ module EvilIpsum
     def paragraph
       sentences.join(" ")
     end
+
+    def paragraphs(count = rand(3..10))
+      count.times.map { paragraph }
+    end
   end
 end

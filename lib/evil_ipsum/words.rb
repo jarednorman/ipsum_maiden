@@ -19,8 +19,6 @@ EvilIpsum::WORDS = %w(
   burning
   cadaver
   chaos
-  christ
-  christian
   church
   circle
   cold
@@ -28,7 +26,6 @@ EvilIpsum::WORDS = %w(
   corpse
   cow
   cries
-  cross
   crypt
   cryptic
   cult
