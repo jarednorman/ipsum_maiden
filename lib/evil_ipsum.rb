@@ -1,6 +1,5 @@
 require "evil_ipsum/version"
+require "evil_ipsum/words"
 
 module EvilIpsum
-  class Error < StandardError; end
-  # Your code goes here...
 end
