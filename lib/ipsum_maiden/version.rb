@@ -1,3 +1,3 @@
-module EvilIpsum
+module IpsumMaiden
   VERSION = "0.1.0"
 end

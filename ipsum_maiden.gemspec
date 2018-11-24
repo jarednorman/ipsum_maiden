@@ -1,17 +1,17 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "evil_ipsum/version"
+require "ipsum_maiden/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "evil_ipsum"
-  spec.version       = EvilIpsum::VERSION
+  spec.name          = "ipsum_maiden"
+  spec.version       = IpsumMaiden::VERSION
   spec.authors       = ["Jared Norman"]
   spec.email         = ["jared@super.gd"]
 
-  spec.summary       = "A metal-themed lorem ipsum generator"
+  spec.summary       = "A metal-themed lorem ipsum (placeholder text) generator"
   spec.description   = spec.summary
-  spec.homepage      = "https://github.com/jarednorman/evil_ipsum"
+  spec.homepage      = "https://github.com/jarednorman/ipsum_maiden"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.

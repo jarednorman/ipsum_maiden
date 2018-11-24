@@ -1,4 +1,4 @@
-EvilIpsum::WORDS = %w(
+IpsumMaiden::WORDS = %w(
   acts
   agony
   ancient
@@ -84,6 +84,7 @@ EvilIpsum::WORDS = %w(
   kill
   killing
   lost
+  maiden
   maims
   mass
   massacre

@@ -1,7 +1,7 @@
-require "evil_ipsum/version"
-require "evil_ipsum/words"
+require "ipsum_maiden/version"
+require "ipsum_maiden/words"
 
-module EvilIpsum
+module IpsumMaiden
   class << self
     def word
       WORDS.sample
