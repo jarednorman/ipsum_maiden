@@ -75,7 +75,6 @@ EvilIpsum::WORDS = %w(
   hate
   haunted
   head
-  heaven
   hell
   horror
   horse
@@ -84,8 +83,6 @@ EvilIpsum::WORDS = %w(
   iron
   kill
   killing
-  light
-  lord
   lost
   maims
   mass
