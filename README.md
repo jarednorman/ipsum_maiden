@@ -63,3 +63,4 @@ The following sources served as inspiration. In the interest of making this appr
 - [this excellent academic work](http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/)
 - [this list](http://www.invisibleoranges.com/the-100-most-overused-metal-band-name-words-according-to-metal-archives/)
 
+If you want to use this in your project, but some of the words in the list are preventing you from doing so, please reach out to me. I'd rather see some cool uses of this project than have the most brutal list of words possible.
