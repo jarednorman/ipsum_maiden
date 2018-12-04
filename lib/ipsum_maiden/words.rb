@@ -1,4 +1,5 @@
 IpsumMaiden::WORDS = %w(
+  abyss
   acts
   agony
   ancient
@@ -7,18 +8,28 @@ IpsumMaiden::WORDS = %w(
   ash
   ashes
   axe
+  banshee
+  basilisk
+  bat
   battle
   beast
+  beholder
   beyond
   black
+  bleeding
   blood
+  bone
   brain
   breathe
   brutal
+  bugbear
   burn
   burning
   cadaver
+  carrion
   chaos
+  chimera
+  choke
   church
   circle
   cold
@@ -29,6 +40,7 @@ IpsumMaiden::WORDS = %w(
   crypt
   cryptic
   cult
+  dagger
   dark
   dead
   death
@@ -37,6 +49,7 @@ IpsumMaiden::WORDS = %w(
   demonic
   demons
   devil
+  devour
   divine
   doom
   dragon
@@ -49,10 +62,12 @@ IpsumMaiden::WORDS = %w(
   face
   fall
   fallen
+  fang
   fear
   feast
   feasting
   fest
+  fiend
   fire
   flame
   flames
@@ -63,11 +78,15 @@ IpsumMaiden::WORDS = %w(
   frost
   funeral
   gate
+  ghoul
+  giant
   goat
+  goblin
   god
   gods
   goodbye
   gore
+  gorgon
   grace
   grim
   grind
@@ -76,14 +95,24 @@ IpsumMaiden::WORDS = %w(
   haunted
   head
   hell
+  horned
   horror
   horse
+  hound
+  howl
   human
+  hydra
+  imp
   infernal
   iron
   kill
   killing
+  kobold
+  kraken
+  larva
+  lich
   lost
+  maggot
   maiden
   maims
   mass
@@ -93,20 +122,27 @@ IpsumMaiden::WORDS = %w(
   monster
   moon
   morbid
+  mountain
   murder
   necro
   night
+  nightmare
   nocturnal
   noise
+  orc
   pain
+  phantom
   pray
   rage
   rain
+  rat
   raven
+  reaper
   reign
   ritual
   rot
   ruin
+  rust
   satan
   satanic
   scream
@@ -117,14 +153,19 @@ IpsumMaiden::WORDS = %w(
   skull
   slaughter
   slime
+  snake
   sorrow
   soul
+  spawn
   sphere
+  spider
   spirit
+  star
   steel
   stone
   storm
   suffer
+  swarm
   sword
   tear
   terror
@@ -132,6 +173,7 @@ IpsumMaiden::WORDS = %w(
   throne
   torment
   torture
+  troll
   undead
   unholy
   veins
@@ -141,5 +183,7 @@ IpsumMaiden::WORDS = %w(
   winter
   witch
   wolf
+  wolves
   wrath
+  wretch
 )
